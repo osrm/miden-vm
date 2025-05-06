@@ -7,7 +7,7 @@ The following tools are available for interacting with Miden VM:
     * [Debugger](./debugger.md)
     * [REPL](./repl.md)
 * Via your browser:
-    * The interactive [Miden VM Playground](https://0xpolygonmiden.github.io/examples/) for writing, executing, proving, and verifying programs from your browser.
+    * The interactive [Miden VM Playground](https://0xmiden.github.io/examples/) for writing, executing, proving, and verifying programs from your browser.
 
 The following resources are available to help you get started programming with Miden VM more quickly:
 
